@@ -1,0 +1,1 @@
+import{a as t,b as a,e as s,o as n}from"./entry.5e82415a.js";const l={__name:"imprint",setup(o){const e=t("isViz");return a(()=>{e.value=!1}),(i,r)=>(n(),s("div",null," imprint "))}};export{l as default};

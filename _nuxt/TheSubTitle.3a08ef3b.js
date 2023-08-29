@@ -1,0 +1,1 @@
+import{o as e,e as o,t as r}from"./entry.5e82415a.js";const s={class:"text-left mx-auto max-w-3xl text-xl pt-8 pb-2 text-gray-700 font-bold"},n={__name:"TheSubTitle",props:{subtitle:{type:String,required:!0}},setup(t){return(a,l)=>(e(),o("div",s,r(t.subtitle),1))}};export{n as _};
